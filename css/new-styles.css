@@ -1,0 +1,26 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.flashy {
+  font-size:100px;
+	font-family:impact;
+
+ -webkit-text-fill-color: transparent;
+ background: -webkit-linear-gradient(transparent, transparent),
+             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+}
+
+.best {
+  font-size: 75%;
+  font-family: impact;
+}
